@@ -1,7 +1,9 @@
 # Chatbot-with-DeepSeek-R1-Ollama-Streamlit
 Local LLM App using DeepSeek-R1-Distill-Qwen-1.5B
 
+
 This mini project demonstrates how to run the DeepSeek-R1-Distill-Qwen-1.5B model locally using Ollama and build an interactive web interface with Streamlit, integrating LangChain to enhance prompt handling and LLM interaction.
+
 
 🚀 Features
 
@@ -12,6 +14,7 @@ This mini project demonstrates how to run the DeepSeek-R1-Distill-Qwen-1.5B mode
 🛠️ Integrated with LangChain for prompt management and flexibility
 
 🔒 Completely private & offline – no cloud API usage
+
 
 📦 Tech Stack
 
