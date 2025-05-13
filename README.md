@@ -5,7 +5,7 @@ Local LLM App using DeepSeek-R1-Distill-Qwen-1.5B
 This mini project demonstrates how to run the DeepSeek-R1-Distill-Qwen-1.5B model locally using Ollama and build an interactive web interface with Streamlit, integrating LangChain to enhance prompt handling and LLM interaction.
 
 
-🚀 Features
+Features
 
 🧠 Runs DeepSeek-R1-Distill-Qwen-1.5B model locally via ollama
 
@@ -16,7 +16,7 @@ This mini project demonstrates how to run the DeepSeek-R1-Distill-Qwen-1.5B mode
 🔒 Completely private & offline – no cloud API usage
 
 
-📦 Tech Stack
+Tech Stack
 
 Ollama — to pull and run LLM models locally
 
